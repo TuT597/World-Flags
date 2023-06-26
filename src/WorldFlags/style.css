@@ -1,0 +1,17 @@
+body {
+    padding: 20px;
+    margin: 10;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.flags {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+    justify-items: center;
+    margin-top: 20px;
+}

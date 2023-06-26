@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b161417e-5c87-4dcb-a4c9-582ac776caa3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World-Flags.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flaggame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flaglist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Afghanistan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Albania_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Algeria_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Andorra_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Angola_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Antarctica_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Antigua_and_Barbuda_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Argentina_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Armenia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Artsakh_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Australia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Austria_Flat_Round-1-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Azerbaijan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bahamas_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bahrain_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bangladesh_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Barbados_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Belarus_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Belgium_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Belize_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Benin_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bhutan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bolivia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bosnia_and_Herzegovina_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Botswana_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Brazil_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Brunei_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Bulgaria_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Burkina_Faso_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Burundi_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cambodia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cameroon_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Canada_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cape_Verde_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Central_African_Republic_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Chad_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Chile_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Colombia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Comoros_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cook_Islands_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Costa_Rica_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Côte_dIvoire_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Croatia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cuba_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Cyprus_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Czech_Republic_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Democratic_Republic_of_Congo_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Denmark_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Djibouti_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Dominica_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Dominican_Republic_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_East_Timor_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Ecuador_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Egypt_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_El_Salvador_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_England_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Equatorial_Guinea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Eritrea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Estonia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Eswatini_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Ethiopia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Federated_States_of_Micronesia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Fiji_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Finland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_France_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Gabon_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Gambia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Georgia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Germany_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Ghana_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Greece_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Grenada_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Guatemala_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Guinea-Bissau_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Guinea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Guyana_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Haiti_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Honduras_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Hong_Kong_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Hungary_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Iceland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_India_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Indonesia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Iran_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Iraq_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Ireland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Israel_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Italy_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Jamaica_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Japan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Jordan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kazakhstan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kenya_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kiribati_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kosovo_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kuwait_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Kyrgyzstan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Laos_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Latvia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Lebanon_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Lesotho_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Liberia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Libya_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Liechtenstein_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Lithuania_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Luxembourg_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Madagascar_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Malawi_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Malaysia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Maldives_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mali_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Malta_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Marshall_Islands_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mauritania_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mauritius_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mexico_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Moldova_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Monaco_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mongolia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Montenegro_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Morocco_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Mozambique_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Myanmar_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Namibia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Nauru_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Nepal_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Netherlands_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_New_Zealand_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Nicaragua_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Niger_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Nigeria_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Niue_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_North_Korea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_North_Macedonia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Norway_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Oman_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Pakistan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Palau_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Palestine_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Panama_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Papua_New_Guinea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Paraguay_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Peoples_Republic_of_China_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Peru_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Philippines_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Poland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Portugal_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Qatar_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Republic_of_Abkhazia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Republic_of_Congo_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Romania_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Russia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Rwanda_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sahrawi_Arab_Democratic_Republic_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Saint_Kitts_and_Nevis_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Saint_Lucia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Saint_Vincent_and_the_Grenadines_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Samoa_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_San_Marino_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sao_Tome_and_Principe_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Saudi_Arabia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Scotland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Senegal_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Serbia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Seychelles_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sierra_Leone_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Singapore_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Slovakia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Slovenia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Solomon_Islands_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Somalia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Somaliland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_South_Africa_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_South_Korea_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_South_Ossetia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_South_Sudan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Spain_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sri_Lanka_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sudan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Suriname_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Sweden_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Switzerland_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Syria_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Taiwan_Republic_of_China_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Tajikistan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Tanzania_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Thailand_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Togo_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Tonga_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Transnistria_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Trinidad_and_Tobago_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Tunisia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Turkey_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Turkish_Republic_of_Northern_Cyprus_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Turkmenistan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Tuvalu_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Uganda_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Ukraine_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_United_Arab_Emirates_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_United_Kingdom_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_United_States_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Uruguay_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Uzbekistan_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Vanuatu_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Vatican_City_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Venezuela_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Vietnam_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Wales_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Yemen_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Zambia_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/flags/Flag_of_Zimbabwe_Flat_Round-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldFlags/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RYknPOvbwkR725lyhWdckJ0yXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tuyan\Desktop\Projecten\GitHub\World-Flags\src\WorldFlags" />
+      <recent name="C:\Users\tuyan\Desktop\Projecten\GitHub\World-Flags\src\WorldFlags\flags" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="WorldFlags.flags" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b161417e-5c87-4dcb-a4c9-582ac776caa3" name="Changes" comment="" />
+      <created>1687434570201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687434570201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
